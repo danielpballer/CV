@@ -1,0 +1,121 @@
+---
+title: "Curriculum Vitae"
+author: "MAJ Daniel Baller"
+email: daniel.baller@westpoint.edu
+output:
+  pdf_document:
+    latex_engine: xelatex
+    template: C:/Users/daniel.baller/OneDrive - West Point/Documents/CV/svm-latex-cv.tex
+  word_document: default
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+geometry: margin=1in
+jobtitle: Instructor, United States Military Academy
+keywords: academic CV, West Point, Army
+linkcolor: blue
+fontawesome: yes
+phone: 503-702-6323
+address: 3213 Meigs Rd. West Point, NY 10996
+#updated: no
+urlcolor: blue
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+\begin{center}
+Updated: 23 March 2020 
+\end{center}
+
+# Education
+
+* **M.S.**, Operations Research, *Georgia Institute of Technology* \hfill 2018
+* **B.S.**, Operations Research with Honors, *The United States Military Academy* \hfill 2008
+
+# Academic Experience 
+
+* Instructor, Department of Mathematical Sciences  
+    *United States Military Academy* \hfill 2018-2020
+
+# Courses Directed
+* **United States Military Academy**
+* **MA206** - (Assistant) Introduction to Probability and Statistics \hfill 2020
+* **MA206** -  Introduction to Probability and Statistics \hfill 2019
+
+# Courses Taught 
+* **United States Military Academy**
+* **MA206** - Introduction to Probability and Statistics \hfill 2019 - 2020
+* **MA103** - Mathematical Modeling and Introduction to Calculus \hfill 2018
+
+# Refereed Publications
+
+* **Baller, D.**, Thomas, D., Cummiskey, K., Bredlau, K., Schwartz, N., Orzechowski, K., Miller, R., Odibo, A., Shah, R., Salafia, C. (2019) Gestational growth trajectories derived from a dynamic fetal–placental scaling law, *Journal of the Royal Society Interface*, Impact factor: 3.224. https://royalsocietypublishing.org/doi/10.1098/rsif.2019.0417 
+
+* Adams, B., **Baller, D.**, Jonas, B., Joseph, A., Cummiskey, K., (Manuscript Under Review) Computational Skills for Multivariable Thinking in Introductory Statistics. *Journal of Statistics Education Special Edition*.
+https://www.overleaf.com/project/5db09b2889e75a00012e5fab 
+
+# Presentations
+
+* **Baller, D.**, Thomas, D., Cummiskey, K., Bredlau, K., Schwartz, N., Orzechowski, K., Miller, R., Odibo, A., Shah, R., Salafia, C. (2019) Gestational growth trajectories derived from a dynamic fetal–placental scaling law, *MAA MathFest*.
+
+# Conference Proceedings
+
+* Morin, T., Clark, N., **Baller, D.**, Watts, K. (2018) Estimating Phase Angle Percentiles in Elite Athletes, *Experimental Biology*. Abstract Published in *The FASEB Journal*, April, 2020, Impact factor: 5.391, presentation canceled due to COVID-19.
+
+* Aloma, Z., Hughes, D., **Baller, D.**, Thomas, D. (2018) The Pitching Problem: Proxy Measures for the Identification of Pitcher Fatigue, *Experimental Biology*. Abstract Published in *The FASEB Journal*, April, 2020, Impact factor: 5.391, presentation canceled due to COVID-19.
+
+* **Baller, D.**, Johnson, A., McCulloh, I., Schrieber, C., Carley, K. (2008) Specific Communication Network Measure Distribution Estimation I, *Sunbelt XXVIII, International Sunbelt Social Network Conference*.
+https://assets.noviams.com/novi-file-uploads/insna/PDFs/Sunbelt_2008.pdf 
+
+* **Baller, D.**, Lospinoso, J. (2008) Specific Communication Network Measure
+Distribution Estimation II, *13th ICCRTS*.
+http://www.dodccrp.org/events/13th_iccrts_2008/CD/html/papers/251.pdf
+
+* **Baller, D.**, Lospinoso, J., Johnson, A. (2008) An Empirical Method for the Evaluation of Dynamic Network Simulation Methods, *2008 International Conference on Information & Knowledge Engineering, IKE 2008*.
+
+# Funding Awarded
+
+* Grant, Faculty Development Research Fund (FRF) \hfill 2019
+
+# Professional Memberships
+* Mathematical Association of America \hfill 2019
+* Alpha Pi Mu - Industrial Engineering Honor Society \hfill 2018
+* Institute of Industrial and Systems Engineers (IISE) \hfill 2016-2018
+* Pi Mu Epsilon - Mathematics Honors Society\hfill 2007
+
+
+# Faculty Development
+* Presenter | Department Bayesian Statistics Study Group \hfill 2019
+
+# Student Research
+* Co-Adviser, Honors Thesis. Previte, Peter, "The Anti-Cycle in Baseball."
+* Co-Adviser, Honors Thesis. Morin, Thomas, "Estimating Phase Angle Percentiles in Elite Athletes."
+* Co-Adviser, Honors Thesis. Hurtubise, Jacob, "Analysis of Base Stealing – the fastest 3.3 seconds in sports."
+* Co-Adviser, Honors Thesis. Aloma, Zachary, "The Pitching Problem: Proxy Measures for the Identification of Pitcher Fatigue."
+* Second Reader, Nicosia, Gino, "Modeling Madness." 
+* Second Reader, Wilby, Bridget, "Forecasting Medical Screening Demand: Analysis of the Cadet Foreign Travel Medical Screening Process." Hollis Award Winner 2019.
+
+# Institutional and Student Developmental Service
+* Triage Judge, Interdisciplinary Contest in Modeling by COMAP \hfill 2020
+* Journal Reviewer for PLOS ONE \hfill 2019-Present
+* Military Intelligence Branch Mentor \hfill 2018-Present
+* IISE Graduate Chapter President, Georgia Institute of Technology \hfill 2017
+* Department Photographer \hfill 2018-Present
+    
+# Selected Military Service
+* Camp Humphreys, KOR \hfill 2014-2015
+  * **Company Commander**, A Co, 719th MI BDE, 501st MI BDE
+
+* Camp Casey, KOR \hfill 2013-2014
+  * **Battalion Intelligence Officer**, 2-9 Infantry Battalion, 1 ABCT 
+    
+# Deployments 
+* Operation Iraqi Freedom/Operation New Dawn, Iraq \hfill 2010
+
+# Selected Awards
+* Meritorious Service Medal (1)
+* Army Commendation Medal (3)
+* Air Assault Badge
+* Overseas Service Ribbon (3)
+* Office of the Secretary of Defense Network Science Excellence Award – Best Student Project Network Science – United States Military Academy, West Point, New York, \hfill 2008

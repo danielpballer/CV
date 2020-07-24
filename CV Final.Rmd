@@ -11,7 +11,7 @@ fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 11pt
 geometry: margin=1in
-jobtitle: Instructor, United States Military Academy
+jobtitle: Assistant Professor, United States Military Academy
 keywords: academic CV, West Point, Army
 linkcolor: blue
 fontawesome: yes
@@ -35,13 +35,16 @@ Updated: 23 March 2020
 
 # Academic Experience 
 
+* Assistant Professor, Department of Mathematical Sciences  
+    *United States Military Academy* \hfill 2018-2020
 * Instructor, Department of Mathematical Sciences  
     *United States Military Academy* \hfill 2018-2020
 
 # Courses Directed
 * **United States Military Academy**
+* **MA206** - Introduction to Probability and Statistics \hfill 2020
 * **MA206** - (Assistant) Introduction to Probability and Statistics \hfill 2020
-* **MA206** -  Introduction to Probability and Statistics \hfill 2019
+* **MA206** - Introduction to Probability and Statistics \hfill 2019
 
 # Courses Taught 
 * **United States Military Academy**
@@ -95,8 +98,10 @@ http://www.dodccrp.org/events/13th_iccrts_2008/CD/html/papers/251.pdf
 * Co-Adviser, Honors Thesis. Aloma, Zachary, "The Pitching Problem: Proxy Measures for the Identification of Pitcher Fatigue."
 * Second Reader, Nicosia, Gino, "Modeling Madness." 
 * Second Reader, Wilby, Bridget, "Forecasting Medical Screening Demand: Analysis of the Cadet Foreign Travel Medical Screening Process." Hollis Award Winner 2019.
+* Second Reader, Cunningham, Nicholas, "Measuring the Effect of Writing Centers Using Statistical Methods"
 
 # Institutional and Student Developmental Service
+* Member, Dean's Remote Teaching Distance Education Working Group (RTDEWG) \hfill 2020
 * Triage Judge, Interdisciplinary Contest in Modeling by COMAP \hfill 2020
 * Journal Reviewer for PLOS ONE \hfill 2019-Present
 * Military Intelligence Branch Mentor \hfill 2018-Present
@@ -104,8 +109,11 @@ http://www.dodccrp.org/events/13th_iccrts_2008/CD/html/papers/251.pdf
 * Department Photographer \hfill 2018-Present
     
 # Selected Military Service
+* Yongsan Garrison, KOR \hfill 2015-2016
+  * **Assistant Operations Officer**, 501st MI BDE
+
 * Camp Humphreys, KOR \hfill 2014-2015
-  * **Company Commander**, A Co, 719th MI BDE, 501st MI BDE
+  * **Company Commander**, A CO, 719th MI BN, 501st MI BDE
 
 * Camp Casey, KOR \hfill 2013-2014
   * **Battalion Intelligence Officer**, 2-9 Infantry Battalion, 1 ABCT 
@@ -116,6 +124,7 @@ http://www.dodccrp.org/events/13th_iccrts_2008/CD/html/papers/251.pdf
 # Selected Awards
 * Meritorious Service Medal (1)
 * Army Commendation Medal (3)
+* Army Achievement Medal (1)
 * Air Assault Badge
 * Overseas Service Ribbon (3)
 * Office of the Secretary of Defense Network Science Excellence Award – Best Student Project Network Science – United States Military Academy, West Point, New York, \hfill 2008

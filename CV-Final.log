@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7250 64-bit) (preloaded format=xelatex 2020.3.23)  31 MAR 2020 10:01
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7250 64-bit) (preloaded format=xelatex 2020.3.23)  24 JUL 2020 14:42
 entering extended mode
 **./CV-Final.tex
 (CV-Final.tex
@@ -964,18 +964,18 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 ] [2] 
 AED: lastpage setting LastPage
 [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 369.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 369.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 391.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 391.
 (CV-Final.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 369.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 369.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 391.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 391.
 Package rerunfilecheck Info: File `CV-Final.out' has not changed.
 (rerunfilecheck)             Checksum: 90ED1F9D84A569AE11BAA316816A9223;886.
  ) 
 Here is how much of TeX's memory you used:
  26317 strings out of 427272
  481270 string characters out of 3140883
- 627936 words of memory out of 3000000
+ 626936 words of memory out of 3000000
  30545 multiletter control sequences out of 15000+200000
  540072 words of font info for 61 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191

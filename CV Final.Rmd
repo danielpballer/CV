@@ -25,7 +25,7 @@ urlcolor: blue
 knitr::opts_chunk$set(echo = TRUE)
 ```
 \begin{center}
-Updated: 23 March 2020 
+Updated: 24 November 2020 
 \end{center}
 
 # Education
@@ -53,10 +53,12 @@ Updated: 23 March 2020
 
 # Refereed Publications
 
+* Thomas, D.M., Siegel, B., **Baller, D.**, Lindquist, J., Cready, G., Zervios, J.T., Nadglowski, J.F., Jr. and Kyle, T.K. (2020), Can the Participant Speak Beyond Likert? Free‐Text Responses in COVID‐19 Obesity Surveys. Obesity, 28: 2268-2271. https://doi.org/10.1002/oby.23037
+
 * **Baller, D.**, Thomas, D., Cummiskey, K., Bredlau, K., Schwartz, N., Orzechowski, K., Miller, R., Odibo, A., Shah, R., Salafia, C. (2019) Gestational growth trajectories derived from a dynamic fetal–placental scaling law, *Journal of the Royal Society Interface*, Impact factor: 3.224. https://royalsocietypublishing.org/doi/10.1098/rsif.2019.0417 
 
-* Adams, B., **Baller, D.**, Jonas, B., Joseph, A., Cummiskey, K., (Manuscript Under Review) Computational Skills for Multivariable Thinking in Introductory Statistics. *Journal of Statistics Education Special Edition*.
-https://www.overleaf.com/project/5db09b2889e75a00012e5fab 
+* Adams, B., **Baller, D.**, Jonas, B., Joseph, A., Cummiskey, K., Computational Skills for Multivariable Thinking in Introductory Statistics. *Journal of Statistics Education*.
+https://www.tandfonline.com/doi/abs/10.1080/10691898.2020.1852139
 
 # Presentations
 
